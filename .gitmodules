@@ -7,3 +7,6 @@
 [submodule "mfesat"]
 	path = mfesat
 	url = git@github.com:kmee/mfesat.git
+[submodule "satextrato"]
+	path = satextrato
+	url = git@github.com:kmee/satextrato.git
