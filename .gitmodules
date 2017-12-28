@@ -1,3 +1,9 @@
 [submodule "sathub"]
 	path = sathub
 	url = git@github.com:kmee/sathub.git
+[submodule "satcfe"]
+	path = satcfe
+	url = git@github.com:kmee/satcfe.git
+[submodule "mfesat"]
+	path = mfesat
+	url = git@github.com:kmee/mfesat.git
