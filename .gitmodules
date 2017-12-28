@@ -1,0 +1,3 @@
+[submodule "sathub"]
+	path = sathub
+	url = git@github.com:kmee/sathub.git
