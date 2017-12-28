@@ -1,0 +1,5 @@
+git+git://github.com/kmee/pybrasil.git
+./satcfe
+./mfesat
+./sathub
+./satextrato
