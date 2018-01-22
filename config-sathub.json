@@ -1,0 +1,9 @@
+{
+    "usuario": "sathub", 
+    "caminho_biblioteca": "/home/faturamento/Integrador", 
+    "codigo_ativacao": "123456789", 
+    "senha": "sathub", 
+    "debug": true, 
+    "convencao_chamada": 1, 
+    "descricao": "Equipamento SAT 1"
+}
